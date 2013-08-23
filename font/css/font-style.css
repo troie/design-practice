@@ -1,0 +1,50 @@
+.type1{
+	font-family: SimHei ;
+}
+.type2{
+	font-family: SimSun;
+}
+.type3{
+	font-family: NSimSun;
+}
+.type4{
+	font-family: FangSong;
+}
+.type5{
+	font-family: KaiTi;
+}
+
+.type6{
+	font-family: PMingLiU;
+}
+.type7{
+	font-family: MingLiU;
+}
+.type8{
+	font-family: DFKai-SB;
+}
+.type9{
+	font-family: "Microsoft YaHei";
+}
+.type10{
+	font-family: "Microsoft JhengHei";
+}
+
+.osx .type1{
+	font-family: STHeiti;
+}
+.osx .type2{
+	font-family: STXihei;
+}
+.osx .type3{
+	font-family: STKaiti;
+}
+.osx .type4{
+	font-family: STSong;
+}
+.osx .type5{
+	font-family: STFangsong;
+}
+.osx .type6{
+	font-family: BiauKai;
+}

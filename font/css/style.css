@@ -1,0 +1,85 @@
+td{font-size: 1.25em;line-height: 1.5em;}
+.type1{
+	font-family: SimHei ;
+}
+.type2{
+	font-family: SimSun;
+}
+.type3{
+	font-family: NSimSun;
+}
+.type4{
+	font-family: FangSong;
+}
+.type5{
+	font-family: KaiTi;
+}
+
+.type6{
+	font-family: PMingLiU;
+}
+.type7{
+	font-family: MingLiU;
+}
+.type8{
+	font-family: DFKai-SB;
+}
+.type9{
+	font-family: "Microsoft YaHei";
+}
+.type10{
+	font-family: "Microsoft JhengHei";
+}
+
+.osx-type1{
+	font-family: STHeiti;
+}
+.osx-type2{
+	font-family: STXihei;
+}
+.osx-type3{
+	font-family: STKaiti;
+}
+.osx-type4{
+	font-family: STSong;
+}
+.osx-type5{
+	font-family: STFangsong;
+}
+.osx-type6{
+	font-family: BiauKai;
+}
+
+.google{
+	font-family: arial, sans-serif;
+}
+.fb{
+	font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+.yahoo{
+	font-family: arial,helvetica,clean,sans-serif;
+}
+.taobao{
+	font-family: tahoma, arial, "hiragino sans gb", "microsoft yahei", \5b8b\4f53, sans-serif;
+}
+.baidu{
+	font-family: Arial,"simsun";
+}
+.qq{
+	font-family: "宋体","Arial Narrow",HELVETICA;
+}
+.sina{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.sohu{
+	font-family: "\5B8B\4F53","Arial Narrow",HELVETICA;
+}
+.test-type2{
+	font-family: "Microsoft JhengHei", PMingLiU, DFKai-SB;
+}
+.test-type3{
+	font-family: ;
+}
+.test-type4{
+	font-family: ;
+}
